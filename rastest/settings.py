@@ -27,7 +27,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = []
 # ALLOWED_HOSTS = ['127.0.0.1', '172.30.2.112', 'cresset112.cressnet']
-ALLOWED_HOSTS = ['172.30.2.112', 'cresset112', 'cresset112.cressnet', '127.0.0.1']
+ALLOWED_HOSTS = ['rscoffin.pythonanywhere.com', '172.30.2.112', 'cresset112', 'cresset112.cressnet', '127.0.0.1']
 
 
 # Application definition
